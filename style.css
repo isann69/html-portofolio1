@@ -31,7 +31,7 @@ ol {
     text-align: center;
   }
 
-.button-contact {
+.button{
   border: none;
   color: white;
   padding: 15px 32px;
@@ -42,3 +42,4 @@ ol {
   margin: 4px 2px;
   cursor: pointer;
 }
+.button2 {background-color: #008CBA;}
