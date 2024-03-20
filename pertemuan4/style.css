@@ -1,0 +1,15 @@
+div p {
+    background-color: yellow;
+}
+div > p {
+    background-color: yellow;
+   }
+div + p {
+    background-color: yellow;
+    }
+div ~ p {
+    background-color: yellow;
+}  
+h1,h2 {
+    color : firebrick
+} 
